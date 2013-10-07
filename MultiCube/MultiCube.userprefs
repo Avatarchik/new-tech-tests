@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SphereScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Networker.cs" Line="104" Column="5" />
+      <File FileName="Assets\Scripts\BoxMovement.cs" Line="19" Column="51" />
+      <File FileName="Assets\Scripts\SphereScript.cs" Line="12" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
